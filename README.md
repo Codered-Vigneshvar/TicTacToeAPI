@@ -198,5 +198,7 @@ npm start
 For a detailed explanation of how the backend of this Tic-Tac-Toe game was created, please refer to my blog post:
 <a href="https://medium.com/@vigneshvars2001/building-a-multiplayer-tic-tac-toe-game-backend-with-flask-f56abd293193" target="_blank">click here</a>.
 
-
+<a name="root"></a><br/><br/><br/>
+[⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/>
+<a name="1"></a><br/><br/><br/>
 
