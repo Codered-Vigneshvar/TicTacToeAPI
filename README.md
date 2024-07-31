@@ -40,7 +40,7 @@ This is a multiplayer Tic-Tac-Toe game built using Flask for the backend, Postgr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/tictactoe-game.git
+    git clone [https://github.com/yourusername/tictactoe-game.git](https://github.com/Codered-Vigneshvar/TicTacToeAPI.git)
     cd tictactoe-game/backend
     ```
 
