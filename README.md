@@ -32,8 +32,9 @@ This is a multiplayer Tic-Tac-Toe game built using Flask for the backend, Postgr
 ### Prerequisites
 
 - Python 3.8+
-- Node.js and npm
 - PostgreSQL
+- AWS EC2
+- AWS RDS
 
 ### Backend Setup
 
