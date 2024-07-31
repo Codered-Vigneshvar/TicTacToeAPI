@@ -11,8 +11,7 @@ This is a multiplayer Tic-Tac-Toe game built using Flask for the backend, Postgr
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
 - [Frontend](#frontend)
-- [Screenshots](#screenshots)
-- [License](#license)
+
 
 ## Features
 
@@ -214,4 +213,7 @@ The frontend is built using React for the web and React Native for mobile. To ru
 npm start
 ## Blog
 
-For a detailed explanation of how the backend of this Tic-Tac-Toe game was created, please refer to my blog post: [How I Built a Multiplayer Tic-Tac-Toe Game]([https://medium.com/your-blog-link](https://medium.com/@vigneshvars2001/building-a-multiplayer-tic-tac-toe-game-backend-with-flask-f56abd293193)).
+For a detailed explanation of how the backend of this Tic-Tac-Toe game was created, please refer to my blog post: <a href="https://medium.com/@vigneshvars2001/building-a-multiplayer-tic-tac-toe-game-backend-with-flask-f56abd293193" target="_blank">click here</a>.
+
+
+
