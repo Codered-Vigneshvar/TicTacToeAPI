@@ -40,8 +40,7 @@ This is a multiplayer Tic-Tac-Toe game built using Flask for the backend, Postgr
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/tictactoe-game.git](https://github.com/Codered-Vigneshvar/TicTacToeAPI.git)
-    cd tictactoe-game/backend
+    git clone https://github.com/yourusername/tictactoe-game.git](https://github.com/Codered-Vigneshvar/TicTacToeAPI.git
     ```
 
 2. Create a virtual environment and activate it:
@@ -50,12 +49,7 @@ This is a multiplayer Tic-Tac-Toe game built using Flask for the backend, Postgr
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     ```
 
-3. Install the dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Set up the environment variables. Create a `.env` file in the `backend` directory:
+3. Set up the environment variables. Create a `.env` file in the `backend` directory:
     ```env
     DB_HOST=your_db_host
     DB_NAME=TicTacToe
@@ -63,19 +57,6 @@ This is a multiplayer Tic-Tac-Toe game built using Flask for the backend, Postgr
     DB_PASSWORD=your_db_password
     DB_PORT=5432
     ```
-
-### Frontend Setup
-
-1. Navigate to the `frontend` directory:
-    ```bash
-    cd ../frontend
-    ```
-
-2. Install the dependencies:
-    ```bash
-    npm install
-    ```
-
 ## Database Setup
 
 1. Create the database:
